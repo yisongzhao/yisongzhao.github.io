@@ -31,7 +31,7 @@ For more technical details, please see our publication:
 >C. Liu, **Z. Jiang**, R. Xu, X. Ji, L. Zhang, and H. Qian, "Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed Aquatic Surface Platform," _2022 IEEE International Conference on Robotics and Automation (ICRA)_, Philadelphia, PA, USA, 2022, pp. 1162-1168, doi: [10.1109/ICRA46639.2022.9812270](https://doi.org/10.1109/ICRA46639.2022.9812270).
 
 ## Follow up
-An improved version was used as the ***end effector*** in CUHK-Shenzhen Robotics & AI Lab marine robotics group's [manipulator-assisted UAV landing](/projects/floating-manipulator/) project. 
+An improved version was used as the ***end effector*** in our lab's [manipulator-assisted UAV landing](/projects/floating-manipulator/) project. 
 
 ![usv](/images/projects/tethered-landing/usv.png)
 

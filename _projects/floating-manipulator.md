@@ -32,7 +32,7 @@ As illustrated in the figure above, this project originated from the need to **_
 
 ![USV](/images/projects/floating-manipulator/usv.gif)
 
-For more information about the USV-UAV system developed by CUHK-Shenzhen Robotics & AI Lab marine robotics group, you may refer to 
+For more information about the USV-UAV system developed by our lab, you may refer to 
 > R. Xu, C. Liu, Z. Cao, Y. Wang, and H. Qian, "A manipulator-assisted multiple UAV landing system for USV subject to disturbance", Ocean Engineering, vol. 299 (2024) 117306, doi: [10.1016/j.oceaneng.2024.117306](https://doi.org/10.1016/j.oceaneng.2024.117306).
 
 For more information about the end effector used in this project, you may refer to our [tethered landing system](/projects/tethered-landing/) project.
