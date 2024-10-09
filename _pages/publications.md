@@ -21,7 +21,7 @@ Qian$^\dagger$, "Confidence-Aware Object Capture for a Manipulator Subject to Fl
 Aquatic Surface Platform," _2022 IEEE International Conference on Robotics and Automation (ICRA)_, Philadelphia, PA, USA, 2022, pp. 1162-1168, doi: [10.1109/ICRA46639.2022.9812270](https://doi.org/10.1109/ICRA46639.2022.9812270).
 
 ## Patents
-- **Z. Jiang**, X. Ji, C. Liu, and H. Qian,"Four-wing flapping wing micro water surface aircraft and flight method," Chinese patent [CN114889821B](https://patents.google.com/patent/CN114889821B/en?oq=CN114889821B), granted February 24, 2023.	
+- **Z. Jiang**, X. Ji, C. Liu, and H. Qian, "Four-wing flapping wing micro water surface aircraft and flight method," Chinese patent [CN114889821B](https://patents.google.com/patent/CN114889821B/en?oq=CN114889821B), granted February 24, 2023.	
 - X. Ji, Z. Song, **Z. Jiang**, and H. Qian, "Flapping wing mechanism and miniature water surface flapping wing aircraft," Chinese patent [CN217320745U](https://patents.google.com/patent/CN217320745U/en?oq=CN217320745U), granted August 30, 2022.  
 - X. Ji, Z. Song, **Z. Jiang**, and H. Qian, "Flapping wing mechanism based on double cranks and micro water surface flapping wing aircraft," Chinese patent [CN217320744U](https://patents.google.com/patent/CN217320744U/en?oq=CN217320744U), granted August 30, 2022.  
 - C. Liu, Z. Cao, **Z. Jiang**, R. Xu, X. Ji, and H. Qian, "Landing system, landing method and storage medium for unmanned aerial vehicle," Chinese patent [CN115167522A](https://patents.google.com/patent/CN115167522A/en?oq=CN115167522A), published October 11, 2022, patent pending.
