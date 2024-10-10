@@ -3,7 +3,7 @@ title: "Tethered Landing System for UAVs on Small and Disturbed Platforms"
 collection: projects
 topic: marine_robotics
 permalink: /projects/tethered-landing/
-abstract: "Research project I participated in at CUHK-Shenzhen, supervised by <a href='https://sse.cuhk.edu.cn/en/faculty/qianhuihuan'>Prof. QIAN Huihuan</a>, 2020 ~ 2021. In this project, I assisted a Ph.D. student in proposing and implementing a tethered landing system that makes the UAV capable of landing on small and disturbed platforms." 
+abstract: "Research project I participated in at CUHK-Shenzhen, supervised by <a href='https://sse.cuhk.edu.cn/en/faculty/qianhuihuan'>Prof. QIAN Huihuan</a>, 2020 ~ 2021. In this project, I assisted a Ph.D. student in proposing and implementing a tethered landing system that makes UAVs capable of landing on small and disturbed platforms." 
 excerpt: "<img src='/images/projects/tethered-landing/tethered-landing.gif' width='700px'>"
 course: false
 date: 2022-10-05
@@ -17,13 +17,11 @@ toc: true
 
 ## Introduction
 
-This project was a research project I participated in at CUHK-Shenzhen, supervised by <a href='https://sse.cuhk.edu.cn/en/faculty/qianhuihuan'>Prof. QIAN Huihuan</a>, 2020 ~ 2021. Inspired by [kites](https://en.wikipedia.org/wiki/Kite) (no matter which direction the wind blows, as long as you reel in the rope, the kite will eventually return to your hands), I assisted a Ph.D. student ([Mr. LIU Chongfeng](https://chongfengliu.github.io/)) in proposing and implementing a tethered landing system that makes the UAV capable of landing on small and disturbed platforms.
-
-![system](/images/projects/tethered-landing/system.png)
-
-The proposed system is suitable for both single and multiple UAV marine platforms. 
+This project was a research project I participated in at CUHK-Shenzhen, supervised by <a href='https://sse.cuhk.edu.cn/en/faculty/qianhuihuan'>Prof. QIAN Huihuan</a>, 2020 ~ 2021. Inspired by [kites](https://en.wikipedia.org/wiki/Kite) (no matter how the wind blows, as long as you can reel in the rope, the kite will eventually return to your hands), I assisted a Ph.D. student ([Mr. LIU Chongfeng](https://chongfengliu.github.io/)) in proposing and implementing a tethered landing system that makes UAVs capable of landing on small and disturbed platforms.
 
 ![platform](/images/projects/tethered-landing/platform.png)
+
+![system](/images/projects/tethered-landing/system.png)
 
 ## Relevant publication
 
@@ -35,5 +33,7 @@ An improved version was used as the ***end effector*** in our lab's [manipulator
 
 ![usv](/images/projects/tethered-landing/usv.png)
 
-For more information about the USV-UAV system shown above, you may refer to 
+For more information about the USV-UAV system developed by our lab, you may refer to 
 > R. Xu, C. Liu, Z. Cao, Y. Wang, and H. Qian, "A manipulator-assisted multiple UAV landing system for USV subject to disturbance", Ocean Engineering, vol. 299 (2024) 117306, doi: [10.1016/j.oceaneng.2024.117306](https://doi.org/10.1016/j.oceaneng.2024.117306).
+
+![usv-uav](/images/projects/tethered-landing/usv-uav.jpg)
