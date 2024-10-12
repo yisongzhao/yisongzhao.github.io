@@ -4,7 +4,7 @@ collection: projects
 topic: robot-assisted_imaging
 toc: true
 permalink: /projects/robotic-lus/
-abstract: "Research project I participated in at CUHK, supervised by <a href='https://www.surgery.cuhk.edu.hk/profile.asp?alias=zli'>Prof. LI Zheng</a> and <a href='https://www.cse.cuhk.edu.hk/people/faculty/pheng-ann-heng/'>Prof. Pheng-Ann Heng</a>, 2023 ~ 2024. This project aimed to use robots to perform autonomous point-of-care lung ultrasound examinations in ICUs to prevent clinicians from infection during pandemics. I contributed to the project as the robot development lead, prototyped a robotic lung ultrasound system (software + hardware) and assisted in its preclinical validation. "
+abstract: "Research project I participated in at CUHK, supervised by <a href='https://www.surgery.cuhk.edu.hk/profile.asp?alias=zli'>Prof. LI Zheng</a> and <a href='https://www.cse.cuhk.edu.hk/people/faculty/pheng-ann-heng/'>Prof. Pheng-Ann Heng</a>, 2023 ~ 2024. This project aimed to use robots to perform autonomous point-of-care lung ultrasound examinations in ICUs to reduce the risk of infection for clinicians during epidemics. I contributed to this project as the robot development lead, prototyped a robotic lung ultrasound system and assisted in its preclinical validation. "
 excerpt: "<img src='/images/projects/robotic-lus/lus.gif' width='700px'>"
 date: 2024-10-05
 ---
@@ -17,7 +17,7 @@ date: 2024-10-05
 
 ## Introduction
 
-This project was a research project I participated in at CUHK, supervised by [Prof. LI Zheng](https://www.surgery.cuhk.edu.hk/profile.asp?alias=zli) and [Prof. Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/people/faculty/pheng-ann-heng/), 2023 ~ 2024. This project aims to use robots to perform autonomous point-of-care lung ultrasound examinations in ICUs to prevent clinicians from infection during pandemics. I contributed to the project as the robot development lead, prototyped a robotic lung ultrasound system (software + hardware), and assisted in its preclinical validation.
+This project was a research project I participated in at CUHK, supervised by [Prof. LI Zheng](https://www.surgery.cuhk.edu.hk/profile.asp?alias=zli) and [Prof. Pheng-Ann Heng](https://www.cse.cuhk.edu.hk/people/faculty/pheng-ann-heng/), 2023 ~ 2024. This project aimed to use robots to perform autonomous point-of-care lung ultrasound examinations in ICUs to reduce the risk of infection for clinicians during epidemics. I contributed to this project as the robot development lead, prototyped a robotic lung ultrasound system and assisted in its preclinical validation. 
 
 ## For more info
 

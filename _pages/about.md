@@ -16,12 +16,12 @@ Prior to CUHK, I earned my B.Eng. degree in Electronic Information Engineering (
 
 ## Research Interests
 Robotics / Medical Robotics / Surgical Robotics<br/>
-Robot-Assisted Imaging<br/>
-Imaged-Guided Robotic Interventions
+Imaged-Guided Robotic Interventions<br/>
+Robot-Assisted Imaging
 
 ## Address
 Unit 1610H, [Multi-Scale Medical Robotics Center](https://www.mrc-cuhk.com/),<br/>16/F, Building 19W, Hong Kong Science Park,<br/>N.T., Hong Kong SAR China
 
 
 ## For more info
-You are welcome to browse my [projects](/projects/), and collect my [CV](/cv/).
+You are welcome to browse my [project gallery](/projects/), and collect my [CV](/cv/).

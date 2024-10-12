@@ -8,15 +8,15 @@ toc: false
 
 {% include base_path %}
 
-Notation: * co-first authors, $^\dagger$ corresponding authors. Conference presenting author _italicized_ if other than the first author.
+Notation: * co-first authors, &dagger; corresponding authors. 
 
 ## Journal Article
 - R. Xu, **Z. Jiang**, B. Liu, Y. Wang, and H.
-Qian$^\dagger$, "Confidence-Aware Object Capture for a Manipulator Subject to Floating-Base Disturbances," in _IEEE Transactions on Robotics (T-RO)_, vol. 40, pp.4396-4413, doi: [10.1109/TRO.2024.3463476](https://doi.org/10.1109/TRO.2024.3463476).
+Qian&dagger;, "Confidence-Aware Object Capture for a Manipulator Subject to Floating-Base Disturbances," in _IEEE Transactions on Robotics (T-RO)_, vol. 40, pp.4396-4413, doi: [10.1109/TRO.2024.3463476](https://doi.org/10.1109/TRO.2024.3463476).
 
 ## Conference Proceedings
-- Y. Jiang, R. Xu, **Z. Jiang**, and H. Qian$^\dagger$, "Design, Modeling and Control of A Novel USV-Manipulator System," _2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)_, Datong, China, 2023, pp. 206-211, doi: [10.1109/RCAR58764.2023.10249802](https://doi.org/10.1109/RCAR58764.2023.10249802).
-- C. Liu, **Z. Jiang**, R. Xu, X. Ji, L. Zhang, and H. Qian$^\dagger$,
+- Y. Jiang, R. Xu, **Z. Jiang**, and H. Qian&dagger;, "Design, Modeling and Control of A Novel USV-Manipulator System," _2023 IEEE International Conference on Real-time Computing and Robotics (RCAR)_, Datong, China, 2023, pp. 206-211, doi: [10.1109/RCAR58764.2023.10249802](https://doi.org/10.1109/RCAR58764.2023.10249802).
+- C. Liu, **Z. Jiang**, R. Xu, X. Ji, L. Zhang, and H. Qian&dagger;,
 "Design and Optimization of a Magnetic Catch System for Precise UAV Landing on Disturbed
 Aquatic Surface Platform," _2022 IEEE International Conference on Robotics and Automation (ICRA)_, Philadelphia, PA, USA, 2022, pp. 1162-1168, doi: [10.1109/ICRA46639.2022.9812270](https://doi.org/10.1109/ICRA46639.2022.9812270).
 
@@ -28,5 +28,5 @@ Aquatic Surface Platform," _2022 IEEE International Conference on Robotics and A
 
 ---
 
-## Workshop Abstract Presented
-- **Z. Jiang**, Y. Hu, X. Luo, J. Miao, Y. Zhang, L. Lei, S. Wang, P.-A. Heng, Z. Li$^\dagger$, "A Collaborative Robotic System with In-Plane Orientation Adjustment for Lung Ultrasonograph", presented at workshop [_Autonomy in Robotic Surgery: State of the art, technical and regulatory challenges for clinical application_](https://metropolis.scienze.univr.it/icra24-workshop-autonomy-in-robotics-surgery/), 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, May 13, 2024. <span style="color:red;">Check abstract, poster and videos</span> [here](/icra2024/).
+## Workshop Presentation
+- **Z. Jiang**, Y. Hu, X. Luo, J. Miao, Y. Zhang, L. Lei, S. Wang, P.-A. Heng, and Z. Li&dagger;, "A Collaborative Robotic System with In-Plane Orientation Adjustment for Lung Ultrasonograph", presented at workshop [_Autonomy in Robotic Surgery: State of the art, technical and regulatory challenges for clinical application_](https://metropolis.scienze.univr.it/icra24-workshop-autonomy-in-robotics-surgery/), 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, May 13, 2024. <span style="color:red;">Check abstract, poster and videos</span> [here](/icra2024/).
