@@ -19,9 +19,6 @@ Robotics / Medical Robotics / Surgical Robotics<br/>
 Imaged-Guided Robotic Interventions<br/>
 Robot-Assisted Imaging
 
-## Address
-Unit 1610H, [Multi-Scale Medical Robotics Center](https://www.mrc-cuhk.com/),<br/>16/F, Building 19W, Hong Kong Science Park,<br/>N.T., Hong Kong SAR China
-
 
 ## For more info
 You are welcome to browse my [project gallery](/projects/), and collect my [CV](/cv/).
