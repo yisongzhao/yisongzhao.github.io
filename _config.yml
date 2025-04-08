@@ -75,11 +75,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : flase # "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
-    code		 : #zixingjiang
+    code		 : "zixingjiang"
 
 
 # Site Author
