@@ -10,14 +10,14 @@ toc: true
 
 This page contains a selection of my current and previous research/course/toy projects, categorized by topic. --- _Last updated in March 2025_.
 
-## Image-Guided Robotic Interventions
+## Photoacoustic probe design 
 ---
 
 Current research project: ultrasound image-guided needle insertion. <br/>
 More details to be disclosed as the project progresses.
 
 
-## Robot-Assisted Imaging
+## An umbrella-inspired snap-on robotic 3D photoacoustic endoscopic probe for augmented intragastric sensing
 ---
 
 {% for post in sortedProjects %}
@@ -26,7 +26,7 @@ More details to be disclosed as the project progresses.
   {% endif %}
 {% endfor %}
 
-## Marine Robotics
+## FR5 robotic arm fully automatic photoacoustic scanning palm arm image reconstruction
 ---
 
 {% for post in sortedProjects %}
@@ -35,7 +35,7 @@ More details to be disclosed as the project progresses.
   {% endif %}
 {% endfor %}
 
-## Bio-Inspired Robotics
+## In vivo photoacoustic scanning using a flexible robot equipped with a micro-photoacoustic probe
 ---
 
 {% for post in sortedProjects %}
@@ -44,13 +44,5 @@ More details to be disclosed as the project progresses.
   {% endif %}
 {% endfor %}
 
-## Others
----
-
-{% for post in sortedProjects %}
-  {% if post.topic == 'others' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
 
 
