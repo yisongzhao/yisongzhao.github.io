@@ -9,16 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I'm a M.Phil. student in the [Advanced Bio-Medical Robotics Lab](https://research.surgery.cuhk.edu.hk/lizhengrobotics/), [Department of Surgery](https://www.surgery.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), supervised by [Prof. LI Zheng](https://www.surgery.cuhk.edu.hk/profile.asp?alias=zli). I'm dedicated to studying and modeling medical procedures and delivering innovative and effective engineering solutions, including robotics and computer science, to improve their quality, efficiency, safety, and availability.
+Here is Yisong ZHAO. I'm now a first year PhD student in the [Advanced Bio-Medical Robotics Lab](https://research.surgery.cuhk.edu.hk/lizhengrobotics/), [Department of Surgery](https://www.surgery.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html) (CUHK), supervised by [Prof. LI Zheng](https://www.surgery.cuhk.edu.hk/profile.asp?alias=zli).I am mainly engaged in research on medical robots based on image navigation, including research on in-vivo continuous robot control algorithms based on ultrasound image navigation and research on in-vivo robotic arm servo algorithms based on photoacoustic navigation.
 
-Prior to CUHK, I earned my B.Eng. degree in Electronic Information Engineering (computer engineering stream) from [CUHK-Shenzhen](https://www.cuhk.edu.cn/en) in 2023. During my studies, I spent three years in the [Robotics & AI Lab](https://rail.cuhk.edu.cn/), under the mentorship of [Prof. QIAN Huihuan](https://sse.cuhk.edu.cn/en/faculty/qianhuihuan) (marine robotics group) and [Prof. SUN Zhenglong](https://sse.cuhk.edu.cn/en/faculty/sunzhenglong) (surgical robotics group).
-
+Before joining CUHK, I obtained my undergraduate and graduate degrees from the [Sorbonne University](https://www.sorbonne-universite.fr/en) in France, majoring in [EEA(Electrique Energie Automatique)](https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/licences-0/licence-discipline/les-l2-l3-nos-huit-3) and minoring in [Mathematics](https://sciences.sorbonne-universite.fr/en/research-areas/mathematics).
 
 ## Research Interests
-Robotics / Medical Robotics / Surgical Robotics<br/>
-Imaged-Guided Robotic Interventions<br/>
-Robot-Assisted Imaging
+1. Photoacoustic probe design
+2. Photoacoustic/ultrasound imaging, image reconstruction
+3. Medical robots based on photoacoustic/ultrasound image guidance
+4. Continuous robot mechanism design for use in narrow spaces in the body, kinematic/dynamic control
 
 
-## For more info
-You are welcome to browse my [project gallery](/projects/), and collect my [CV](/cv/).
