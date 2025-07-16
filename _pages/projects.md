@@ -8,7 +8,7 @@ toc: true
 {% include base_path %}
 {% assign sortedProjects = site.projects | sort: 'date' | reverse %}
 
-This page contains a selection of my current and previous research/course/toy projects, categorized by topic. --- _Last updated in March 2025_.
+This page contains my current and previous research projects. --- _Last updated March 2025_.
 
 ## Photoacoustic probe design 
 ---
