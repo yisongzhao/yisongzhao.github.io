@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JIANG Zixing"
+title                    : "Yisong ZHAO"
 title_separator          : "-"
-name                     : &name "JIANG Zixing"
-description              : &description "Zixing's Homapage"
-url                      : https://www.zixingjiang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yisong ZHAO"
+description              : &description "Yisong ZHAO's Homapage"
+url                      : https://yisongzhao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zixingjiang/zixingjiang.github.io"
+repository               : "yisongzhao/yisongzhao.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 100
@@ -79,20 +79,20 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : "zixingjiang"
+    code		 : "yisongzhao"
 
 
 # Site Author
 author:
-  name             : "JIANG Zixing"
+  name             : "Yisong ZHAO"
   avatar           : "zxjiang.jpg"
-  bio              : "M.Phil. student at CUHK"
+  bio              : "First year PhD. student at CUHK"
   location         : "Hong Kong, China"
   employer         : 
   pubmed           :
-  orcid            : https://orcid.org/0009-0006-7510-9563
-  googlescholar    : https://scholar.google.com/citations?user=bvhdV4AAAAAJ&hl=en
-  email            : zxjiang@surgery.cuhk.edu.hk
+  orcid            : 
+  googlescholar    :
+  email            : yisongzhao1@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -101,14 +101,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zixingjiang"
+  github           : "yisongzhao"
   gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : zixing-jiang
+  linkedin         : 
   mastodon         : 
   pinterest        :
   soundcloud       :
