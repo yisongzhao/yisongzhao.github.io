@@ -18,6 +18,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-No blog yet. Take a look at the bike I built myself.
-
-![bike](/images/blogs/bike.jpg)
+No blog yet.
