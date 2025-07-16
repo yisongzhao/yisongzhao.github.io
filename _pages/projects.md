@@ -8,7 +8,7 @@ toc: true
 {% include base_path %}
 {% assign sortedProjects = site.projects | sort: 'date' | reverse %}
 
-This page contains my current and previous research projects. --- _Last updated March 2025_.
+This page contains my current and previous research projects. --- _Last updated July 2025_.
 
 ## Photoacoustic probe design 
 ---
