@@ -36,6 +36,8 @@ This page contains my current and previous research projects. --- _Last updated 
 ---
 
 
+## Continuum robot mechanism design and kinematic control
+---
 
 
 
