@@ -41,7 +41,7 @@ This page contains my current and previous research projects. --- _Last updated 
   <source src="/images/projects/RA_PA_Armscan/red.mp4">
   Your browser does not support the video tag.
 </video>
----
+
 <video width="320" height="180" controls>
   <source src="/images/projects/RA_PA_Armscan/white.mp4">
   Your browser does not support the video tag.
