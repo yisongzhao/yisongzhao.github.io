@@ -10,13 +10,13 @@ toc: true
 
 This page contains my current and previous research projects. --- _Last updated July 2025_.
 
-## Photoacoustic probe design 
+# Photoacoustic probe design 
 ---
 
 
 
 
-## An umbrella-inspired snap-on robotic 3D photoacoustic endoscopic probe for augmented intragastric sensing
+# An umbrella-inspired snap-on robotic 3D photoacoustic endoscopic probe for augmented intragastric sensing
 ---
 <video width="640" height="360" controls>
   <source src="/images/projects/Umb/e8ba14de9824d94ccde295ceeab25428.mp4">
@@ -24,7 +24,7 @@ This page contains my current and previous research projects. --- _Last updated 
 </video>
 
 
-## FR5 robotic arm fully automatic photoacoustic scanning palm arm image reconstruction
+# FR5 robotic arm fully automatic photoacoustic scanning palm arm image reconstruction
 ---
 <video width="640" height="360" controls>
   <source src="/images/projects/RA_PA_Armscan/15dc18d194005171f56e028d0d4b53d4.mp4">
@@ -37,7 +37,7 @@ This page contains my current and previous research projects. --- _Last updated 
   Your browser does not support the video tag.
 </video>
 ---
-# Project Achievements Display
+### Project Achievements Display
 
 <video width="320" height="180" controls>
   <source src="/images/projects/RA_PA_Armscan/red.mp4">
@@ -51,11 +51,11 @@ This page contains my current and previous research projects. --- _Last updated 
 
 
 
-## In vivo photoacoustic scanning using a flexible robot equipped with a micro-photoacoustic probe
+# In vivo photoacoustic scanning using a flexible robot equipped with a micro-photoacoustic probe
 ---
 
 
-## Continuum robot mechanism design and kinematic control
+# Continuum robot mechanism design and kinematic control
 ---
 
 
