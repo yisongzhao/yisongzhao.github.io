@@ -31,6 +31,20 @@ This page contains my current and previous research projects. --- _Last updated 
   Your browser does not support the video tag.
 </video>
 
+<video width="640" height="360" controls>
+  <source src="images/projects/RA_PA_Armscan/24b5955534ea9a7dd513ebae8efbc246.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="320" height="180" controls>
+  <source src="/images/projects/RA_PA_Armscan/15dc18d194005171f56e028d0d4b53d4.mp4">
+  Your browser does not support the video tag.
+</video>
+
+<video width="320" height="180" controls>
+  <source src="/images/projects/RA_PA_Armscan/15dc18d194005171f56e028d0d4b53d4.mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## In vivo photoacoustic scanning using a flexible robot equipped with a micro-photoacoustic probe
 ---
