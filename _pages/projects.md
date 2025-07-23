@@ -19,7 +19,7 @@ This page contains my current and previous research projects. --- _Last updated 
 # An umbrella-inspired snap-on robotic 3D photoacoustic endoscopic probe for augmented intragastric sensing
 ---
 <video width="640" height="360" controls>
-  <source src="/images/projects/Umb/e8ba14de9824d94ccde295ceeab25428.mp4">
+  <source src="/images/projects/Umb/14f5b29134bd95f99372ca98c509d5e5.mp4">
   Your browser does not support the video tag.
 </video>
 
