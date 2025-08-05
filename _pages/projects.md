@@ -15,16 +15,11 @@ This page contains my current and previous research projects. --- _Last updated 
 
 
 
+# Extracorporeal Research
 
-# An umbrella-inspired snap-on robotic 3D photoacoustic endoscopic probe for augmented intragastric sensing
----
-<video width="640" height="360" controls>
-  <source src="/images/projects/Umb/14f5b29134bd95f99372ca98c509d5e5.mp4">
-  Your browser does not support the video tag.
-</video>
+## Photoacoustic/Ultrasound Image-Guided Robotic Visual Servoing Task
 
-
-# FR5 robotic arm fully automatic photoacoustic scanning palm arm image reconstruction
+## Three-Dimensional Robotic Vascular Imaging System
 ---
 <video width="640" height="360" controls>
   <source src="/images/projects/RA_PA_Armscan/15dc18d194005171f56e028d0d4b53d4.mp4">
@@ -49,13 +44,18 @@ This page contains my current and previous research projects. --- _Last updated 
   Your browser does not support the video tag.
 </video>
 
+# Intracorporeal Research:
 
-
-# In vivo photoacoustic scanning using a flexible robot equipped with a micro-photoacoustic probe
+## An umbrella-inspired snap-on robotic 3D photoacoustic endoscopic probe for augmented intragastric sensing
 ---
+<video width="640" height="360" controls>
+  <source src="/images/projects/Umb/14f5b29134bd95f99372ca98c509d5e5.mp4">
+  Your browser does not support the video tag.
+</video>
 
 
-# Continuum robot mechanism design and kinematic control
+
+## Continuum robot mechanism design and kinematic control
 ---
 
 
