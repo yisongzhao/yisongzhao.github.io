@@ -10,11 +10,6 @@ toc: true
 
 This page contains my current and previous research projects. --- _Last updated July 2025_.
 
-# Photoacoustic probe design 
----
-
-
-
 # Extracorporeal Research
 
 ## Three-Dimensional Robotic Vascular Imaging System
