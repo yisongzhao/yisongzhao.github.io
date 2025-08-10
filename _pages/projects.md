@@ -17,9 +17,6 @@ This page contains my current and previous research projects. --- _Last updated 
 
 # Extracorporeal Research
 
-## Photoacoustic/Ultrasound Image-Guided Robotic Visual Servoing Task
----
-The robot visual servoing task guided by photoacoustic/ultrasound images integrates multimodal images from photoacoustics (providing high-contrast functional information) and ultrasound (offering deep-penetration structural information). It extracts target features in real time, calculates motion deviations via visual servoing algorithms, and drives the robot to dynamically adjust its posture, forming a closed loop of "image feedback-motion correction". This enables high-precision tracking, positioning, or manipulation of targets, combining imaging complementarity and real-time control, and is applicable to scenarios such as precision medicine.
 ## Three-Dimensional Robotic Vascular Imaging System
 ---
 System integrating robotic technology and three-dimensional imaging capabilities, it can accurately locate and scan blood vessels, generate clear three-dimensional vascular structure images, provide intuitive spatial information support for vascular disease diagnosis, interventional therapy, etc., and features both operational flexibility and imaging precision.
@@ -30,12 +27,7 @@ System integrating robotic technology and three-dimensional imaging capabilities
   Your browser does not support the video tag.
 </video>
 ---
-<video width="640" height="360" controls>
-  
-  <source src="/images/projects/RA_PA_Armscan/24b5955534ea9a7dd513ebae8efbc246.mp4">
-  Your browser does not support the video tag.
-</video>
----
+
 ### Project Achievements Display
 
 <video width="320" height="180" controls>
@@ -47,6 +39,20 @@ System integrating robotic technology and three-dimensional imaging capabilities
   <source src="/images/projects/RA_PA_Armscan/white.mp4">
   Your browser does not support the video tag.
 </video>
+## Photoacoustic/Ultrasound Image-Guided Robotic Visual Servoing Task
+---
+The robot visual servoing task guided by photoacoustic/ultrasound images integrates multimodal images from photoacoustics (providing high-contrast functional information) and ultrasound (offering deep-penetration structural information). It extracts target features in real time, calculates motion deviations via visual servoing algorithms, and drives the robot to dynamically adjust its posture, forming a closed loop of "image feedback-motion correction". This enables high-precision tracking, positioning, or manipulation of targets, combining imaging complementarity and real-time control, and is applicable to scenarios such as precision medicine.
+
+
+<video width="640" height="360" controls>
+  
+  <source src="/images/projects/RA_PA_Armscan/24b5955534ea9a7dd513ebae8efbc246.mp4">
+  Your browser does not support the video tag.
+</video>
+---
+
+
+
 
 # Intracorporeal Research:
 
