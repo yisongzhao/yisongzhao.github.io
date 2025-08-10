@@ -18,9 +18,13 @@ This page contains my current and previous research projects. --- _Last updated 
 # Extracorporeal Research
 
 ## Photoacoustic/Ultrasound Image-Guided Robotic Visual Servoing Task
-
+---
+The robot visual servoing task guided by photoacoustic/ultrasound images integrates multimodal images from photoacoustics (providing high-contrast functional information) and ultrasound (offering deep-penetration structural information). It extracts target features in real time, calculates motion deviations via visual servoing algorithms, and drives the robot to dynamically adjust its posture, forming a closed loop of "image feedback-motion correction". This enables high-precision tracking, positioning, or manipulation of targets, combining imaging complementarity and real-time control, and is applicable to scenarios such as precision medicine.
 ## Three-Dimensional Robotic Vascular Imaging System
 ---
+System integrating robotic technology and three-dimensional imaging capabilities, it can accurately locate and scan blood vessels, generate clear three-dimensional vascular structure images, provide intuitive spatial information support for vascular disease diagnosis, interventional therapy, etc., and features both operational flexibility and imaging precision.
+
+
 <video width="640" height="360" controls>
   <source src="/images/projects/RA_PA_Armscan/15dc18d194005171f56e028d0d4b53d4.mp4">
   Your browser does not support the video tag.
