@@ -58,6 +58,10 @@ The robot visual servoing task guided by photoacoustic/ultrasound images integra
 
 ## An umbrella-inspired snap-on robotic 3D photoacoustic endoscopic probe for augmented intragastric sensing
 ---
+We use one-dimensional photoacoustic signals to distinguish early-stage gastric cancer from normal tissue. After determining the specific location of the lesion, delineating the tumor's tissue boundaries and invasion characteristics is crucial. This chapter describes a feasibility study of three-dimensional photoacoustic imaging for early-stage gastric cancer detection. We designed and customized a two-dimensional transducer array specifically for photoacoustic tomography. Using this array, we developed a detachable three-dimensional photoacoustic imaging probe that can be affixed to a flexible robotic gastroscope for detection. We also designed a corresponding three-dimensional photoacoustic imaging algorithm. The specific contributions of this study are as follows:
+• The acoustic field distribution of the two-dimensional array transducer was simulated and modeled. Using this transducer, we developed a detachable three-dimensional photoacoustic imaging probe that can be integrated with a conventional gastroscope.
+• Based on the designed probe, we developed a corresponding three-dimensional phase shift migration algorithm (PSM).
+• The effectiveness of the system and algorithm was verified through phantoms and experiments.
 <video width="640" height="360" controls>
   <source src="/images/projects/Umb/14f5b29134bd95f99372ca98c509d5e5.mp4">
   Your browser does not support the video tag.
