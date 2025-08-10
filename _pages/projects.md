@@ -61,6 +61,6 @@ System integrating robotic technology and three-dimensional imaging capabilities
 
 ## Continuum robot mechanism design and kinematic control
 ---
-
+We have completed the design of three sets of continuum robot mechanisms with distinct functions. Among them, one continuum robot is capable of tracking surgical instruments using a constant curvature motion model, and we have also developed an umbrella-shaped probe for gastric cancer detection. Additionally, by leveraging the Cosserat model, we have achieved accurate estimation of the flexible segment of the continuum robot and realized precise control of its position and posture under force control.
 
 
