@@ -66,6 +66,12 @@ We use one-dimensional photoacoustic signals to distinguish early-stage gastric 
 
 ## Continuum robot mechanism design and kinematic control
 ---
+
+<video width="640" height="360" controls>
+  <source src="/images/projects/Umb/7b7d1604365ff595e71a803cf680d85e.mp4">
+  Your browser does not support the video tag.
+</video>
+
 We have completed the design of three sets of continuum robot mechanisms with distinct functions. Among them, one continuum robot is capable of tracking surgical instruments using a constant curvature motion model, and we have also developed an umbrella-shaped probe for gastric cancer detection. Additionally, by leveraging the Cosserat model, we have achieved accurate estimation of the flexible segment of the continuum robot and realized precise control of its position and posture under force control.
 
 
